@@ -5,10 +5,10 @@
     background-color: darkgray;
 }
 .quadrado_vermelho{
-    width: 100px;
-    margin: 100px;
+    width: 50px;
+    margin: 10px;
     height: 100px;
-    padding: 100px;
+    padding: 10px;
     align-items: center;
     justify-items: center;
     background-color:rgb(207, 14, 14);
